@@ -1,2 +1,2 @@
 # ME433
-- Homeworks and Projects of Advanced Mechatronics
+Zhisheng Lin's ME433 Repository for Advanced Mechatronics at Northwestern University for 2020
