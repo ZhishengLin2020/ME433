@@ -1,2 +1,2 @@
 # ME433
-Zhisheng Lin's ME433 Repository for Advanced Mechatronics at Northwestern University for 2020
+Zhisheng Lin's ME433 Repository for Advanced Mechatronics at Northwestern University
