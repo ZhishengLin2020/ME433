@@ -80,6 +80,10 @@ int main() {
     char arr4[50];
     
     while (1) {
+        _CP0_SET_COUNT(0);
+        while(_CP0_GET_COUNT() < 24000000) {;}
+        LATAbits.LATA4 = !LATAbits.LATA4;
+        
         sprintf(arr3,"Hello World! i = %d",i);
         drawarray(5,16,arr3);
         ssd1306_update();
